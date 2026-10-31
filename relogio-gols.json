@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:49.416484+00:00",
+  "fetchedAt": "2026-10-31T03:04:24.775390+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -41,6 +41,12 @@
       "completed": 7
     },
     {
+      "id": 456483115,
+      "name": "SV Elversberg",
+      "sourceId": "10388",
+      "completed": 8
+    },
+    {
       "id": 940116287,
       "name": "RB Leipzig",
       "sourceId": "11420",
@@ -56,13 +62,7 @@
       "id": 3512646441,
       "name": "Mainz 05",
       "sourceId": "2950",
-      "completed": 7
-    },
-    {
-      "id": 456483115,
-      "name": "SV Elversberg",
-      "sourceId": "10388",
-      "completed": 7
+      "completed": 8
     },
     {
       "id": 1882370810,
@@ -1996,8 +1996,45 @@
       ],
       "firstScorer": 986778361,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884746",
+      "date": "2026-10-30T19:30Z",
+      "home": 456483115,
+      "away": 3512646441,
+      "hg": 4,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 456483115,
+          "minute": "7",
+          "bin": 0
+        },
+        {
+          "team": 456483115,
+          "minute": "26",
+          "bin": 1
+        },
+        {
+          "team": 456483115,
+          "minute": "45+1",
+          "bin": 3
+        },
+        {
+          "team": 456483115,
+          "minute": "90",
+          "bin": 6
+        },
+        {
+          "team": 3512646441,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 456483115,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 63,
+  "completedMatches": 64,
   "excluded": []
 }

@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-10-30T18:38:49.416484+00:00",
+  "fetchedAt": "2026-10-31T03:04:24.775390+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -48,13 +48,23 @@
       "sourceId": "131"
     },
     {
+      "id": 456483115,
+      "name": "SV Elversberg",
+      "points": 13,
+      "played": 8,
+      "goalsFor": 16,
+      "goalsAgainst": 16,
+      "position": 5,
+      "sourceId": "10388"
+    },
+    {
       "id": 940116287,
       "name": "RB Leipzig",
       "points": 12,
       "played": 7,
       "goalsFor": 20,
       "goalsAgainst": 11,
-      "position": 5,
+      "position": 6,
       "sourceId": "11420"
     },
     {
@@ -64,28 +74,18 @@
       "played": 7,
       "goalsFor": 15,
       "goalsAgainst": 14,
-      "position": 6,
+      "position": 7,
       "sourceId": "137"
     },
     {
       "id": 3512646441,
       "name": "Mainz 05",
       "points": 10,
-      "played": 7,
-      "goalsFor": 16,
-      "goalsAgainst": 13,
-      "position": 7,
-      "sourceId": "2950"
-    },
-    {
-      "id": 456483115,
-      "name": "SV Elversberg",
-      "points": 10,
-      "played": 7,
-      "goalsFor": 12,
-      "goalsAgainst": 15,
+      "played": 8,
+      "goalsFor": 17,
+      "goalsAgainst": 17,
       "position": 8,
-      "sourceId": "10388"
+      "sourceId": "2950"
     },
     {
       "id": 1882370810,
