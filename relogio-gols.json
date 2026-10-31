@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T15:42:28.329436+00:00",
+  "fetchedAt": "2026-10-31T19:53:09.045392+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -20,43 +20,43 @@
       "id": 986778361,
       "name": "Bayern Munich",
       "sourceId": "132",
-      "completed": 7
+      "completed": 8
     },
     {
       "id": 1809002223,
       "name": "Borussia Dortmund",
       "sourceId": "124",
-      "completed": 7
+      "completed": 8
     },
     {
       "id": 124371916,
       "name": "SC Freiburg",
       "sourceId": "126",
-      "completed": 7
-    },
-    {
-      "id": 3095395780,
-      "name": "Bayer Leverkusen",
-      "sourceId": "131",
-      "completed": 7
-    },
-    {
-      "id": 456483115,
-      "name": "SV Elversberg",
-      "sourceId": "10388",
       "completed": 8
     },
     {
       "id": 940116287,
       "name": "RB Leipzig",
       "sourceId": "11420",
-      "completed": 7
+      "completed": 8
     },
     {
       "id": 2020950542,
       "name": "Werder Bremen",
       "sourceId": "137",
-      "completed": 7
+      "completed": 8
+    },
+    {
+      "id": 3095395780,
+      "name": "Bayer Leverkusen",
+      "sourceId": "131",
+      "completed": 8
+    },
+    {
+      "id": 456483115,
+      "name": "SV Elversberg",
+      "sourceId": "10388",
+      "completed": 8
     },
     {
       "id": 3512646441,
@@ -68,13 +68,25 @@
       "id": 1882370810,
       "name": "FC Augsburg",
       "sourceId": "3841",
-      "completed": 7
+      "completed": 8
+    },
+    {
+      "id": 1136578140,
+      "name": "VfB Stuttgart",
+      "sourceId": "134",
+      "completed": 8
     },
     {
       "id": 2663392116,
       "name": "TSG Hoffenheim",
       "sourceId": "7911",
-      "completed": 7
+      "completed": 8
+    },
+    {
+      "id": 1807905175,
+      "name": "SC Paderborn",
+      "sourceId": "3307",
+      "completed": 8
     },
     {
       "id": 3829402270,
@@ -89,28 +101,16 @@
       "completed": 7
     },
     {
-      "id": 1807905175,
-      "name": "SC Paderborn",
-      "sourceId": "3307",
-      "completed": 7
-    },
-    {
       "id": 526996100,
       "name": "Eintracht Frankfurt",
       "sourceId": "125",
       "completed": 7
     },
     {
-      "id": 1136578140,
-      "name": "VfB Stuttgart",
-      "sourceId": "134",
-      "completed": 7
-    },
-    {
       "id": 2744851940,
       "name": "Schalke 04",
       "sourceId": "133",
-      "completed": 7
+      "completed": 8
     },
     {
       "id": 3164154069,
@@ -122,7 +122,7 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "sourceId": "268",
-      "completed": 7
+      "completed": 8
     }
   ],
   "matches": [
@@ -2033,8 +2033,164 @@
       ],
       "firstScorer": 456483115,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884747",
+      "date": "2026-10-31T14:30Z",
+      "home": 2744851940,
+      "away": 940116287,
+      "hg": 0,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 940116287,
+          "minute": "37",
+          "bin": 2
+        },
+        {
+          "team": 940116287,
+          "minute": "78",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 940116287,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884748",
+      "date": "2026-10-31T14:30Z",
+      "home": 2020950542,
+      "away": 2663392116,
+      "hg": 2,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2020950542,
+          "minute": "57",
+          "bin": 4
+        },
+        {
+          "team": 2020950542,
+          "minute": "82",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 2020950542,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884749",
+      "date": "2026-10-31T14:30Z",
+      "home": 3705035320,
+      "away": 1807905175,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401884751",
+      "date": "2026-10-31T14:30Z",
+      "home": 1882370810,
+      "away": 124371916,
+      "hg": 1,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 1882370810,
+          "minute": "18",
+          "bin": 1
+        },
+        {
+          "team": 124371916,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 124371916,
+          "minute": "85",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1882370810,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884753",
+      "date": "2026-10-31T14:30Z",
+      "home": 3095395780,
+      "away": 1136578140,
+      "hg": 2,
+      "ag": 4,
+      "goals": [
+        {
+          "team": 1136578140,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 1136578140,
+          "minute": "22",
+          "bin": 1
+        },
+        {
+          "team": 3095395780,
+          "minute": "28",
+          "bin": 1
+        },
+        {
+          "team": 1136578140,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 1136578140,
+          "minute": "65",
+          "bin": 5
+        },
+        {
+          "team": 3095395780,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1136578140,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884754",
+      "date": "2026-10-31T17:30Z",
+      "home": 986778361,
+      "away": 1809002223,
+      "hg": 2,
+      "ag": 2,
+      "goals": [
+        {
+          "team": 986778361,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 1809002223,
+          "minute": "60",
+          "bin": 4
+        },
+        {
+          "team": 986778361,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 1809002223,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 986778361,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 64,
+  "completedMatches": 70,
   "excluded": []
 }
