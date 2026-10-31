@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-10-31T09:30:12.990698+00:00",
+  "fetchedAt": "2026-10-31T15:42:28.329436+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -2336,9 +2336,9 @@
       "id": "3095395780-1136578140",
       "home": 3095395780,
       "away": 1136578140,
-      "date": 1793457000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3095395780-2744851940",
@@ -2616,9 +2616,9 @@
       "id": "2020950542-2663392116",
       "home": 2020950542,
       "away": 2663392116,
-      "date": 1793457000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "2020950542-3829402270",
@@ -2792,9 +2792,9 @@
       "id": "1882370810-124371916",
       "home": 1882370810,
       "away": 124371916,
-      "date": 1793457000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "1882370810-456483115",
@@ -3560,9 +3560,9 @@
       "id": "2744851940-940116287",
       "home": 2744851940,
       "away": 940116287,
-      "date": 1793457000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "2744851940-2020950542",
@@ -3824,9 +3824,9 @@
       "id": "3705035320-1807905175",
       "home": 3705035320,
       "away": 1807905175,
-      "date": 1793457000000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3705035320-526996100",
