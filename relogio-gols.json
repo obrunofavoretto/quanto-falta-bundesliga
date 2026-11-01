@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-01T13:10:13.165155+00:00",
+  "fetchedAt": "2026-11-01T18:51:47.356977+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -59,6 +59,12 @@
       "completed": 8
     },
     {
+      "id": 526996100,
+      "name": "Eintracht Frankfurt",
+      "sourceId": "125",
+      "completed": 8
+    },
+    {
       "id": 3512646441,
       "name": "Mainz 05",
       "sourceId": "2950",
@@ -83,6 +89,12 @@
       "completed": 8
     },
     {
+      "id": 4036969662,
+      "name": "1. FC Köln",
+      "sourceId": "122",
+      "completed": 8
+    },
+    {
       "id": 1807905175,
       "name": "SC Paderborn",
       "sourceId": "3307",
@@ -92,31 +104,19 @@
       "id": 3829402270,
       "name": "Hamburger SV",
       "sourceId": "127",
-      "completed": 7
-    },
-    {
-      "id": 4036969662,
-      "name": "1. FC Köln",
-      "sourceId": "122",
-      "completed": 7
-    },
-    {
-      "id": 526996100,
-      "name": "Eintracht Frankfurt",
-      "sourceId": "125",
-      "completed": 7
-    },
-    {
-      "id": 2744851940,
-      "name": "Schalke 04",
-      "sourceId": "133",
       "completed": 8
     },
     {
       "id": 3164154069,
       "name": "Union Berlin",
       "sourceId": "598",
-      "completed": 7
+      "completed": 8
+    },
+    {
+      "id": 2744851940,
+      "name": "Schalke 04",
+      "sourceId": "133",
+      "completed": 8
     },
     {
       "id": 3705035320,
@@ -2189,8 +2189,62 @@
       ],
       "firstScorer": 986778361,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884750",
+      "date": "2026-11-01T14:30Z",
+      "home": 3164154069,
+      "away": 4036969662,
+      "hg": 1,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3164154069,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 4036969662,
+          "minute": "79",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 3164154069,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884752",
+      "date": "2026-11-01T16:30Z",
+      "home": 526996100,
+      "away": 3829402270,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 526996100,
+          "minute": "10",
+          "bin": 0
+        },
+        {
+          "team": 3829402270,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 526996100,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 526996100,
+          "minute": "69",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 526996100,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 70,
+  "completedMatches": 72,
   "excluded": []
 }
