@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-06T14:56:26.968370+00:00",
+  "fetchedAt": "2026-11-06T20:48:54.636054+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -3696,9 +3696,9 @@
       "id": "3829402270-3705035320",
       "home": 3829402270,
       "away": 3705035320,
-      "date": 1793993400000,
+      "date": null,
       "round": "Rodada a confirmar",
-      "status": "scheduled"
+      "status": "pending"
     },
     {
       "id": "3164154069-986778361",
