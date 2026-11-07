@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-06T20:48:54.636054+00:00",
+  "fetchedAt": "2026-11-07T00:51:02.353928+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -59,6 +59,12 @@
       "completed": 8
     },
     {
+      "id": 3829402270,
+      "name": "Hamburger SV",
+      "sourceId": "127",
+      "completed": 9
+    },
+    {
       "id": 526996100,
       "name": "Eintracht Frankfurt",
       "sourceId": "125",
@@ -101,12 +107,6 @@
       "completed": 8
     },
     {
-      "id": 3829402270,
-      "name": "Hamburger SV",
-      "sourceId": "127",
-      "completed": 8
-    },
-    {
       "id": 3164154069,
       "name": "Union Berlin",
       "sourceId": "598",
@@ -122,7 +122,7 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "sourceId": "268",
-      "completed": 8
+      "completed": 9
     }
   ],
   "matches": [
@@ -2243,8 +2243,40 @@
       ],
       "firstScorer": 526996100,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884739",
+      "date": "2026-11-06T19:30Z",
+      "home": 3829402270,
+      "away": 3705035320,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 3829402270,
+          "minute": "11",
+          "bin": 0
+        },
+        {
+          "team": 3705035320,
+          "minute": "44",
+          "bin": 2
+        },
+        {
+          "team": 3829402270,
+          "minute": "59",
+          "bin": 4
+        },
+        {
+          "team": 3829402270,
+          "minute": "70",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 3829402270,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 72,
+  "completedMatches": 73,
   "excluded": []
 }
