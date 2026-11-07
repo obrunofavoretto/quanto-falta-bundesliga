@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-07T18:39:34.413995+00:00",
+  "fetchedAt": "2026-11-07T22:39:16.549110+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -44,7 +44,7 @@
       "id": 2020950542,
       "name": "Werder Bremen",
       "sourceId": "137",
-      "completed": 8
+      "completed": 9
     },
     {
       "id": 3095395780,
@@ -56,6 +56,12 @@
       "id": 456483115,
       "name": "SV Elversberg",
       "sourceId": "10388",
+      "completed": 9
+    },
+    {
+      "id": 1136578140,
+      "name": "VfB Stuttgart",
+      "sourceId": "134",
       "completed": 9
     },
     {
@@ -87,12 +93,6 @@
       "name": "FC Augsburg",
       "sourceId": "3841",
       "completed": 9
-    },
-    {
-      "id": 1136578140,
-      "name": "VfB Stuttgart",
-      "sourceId": "134",
-      "completed": 8
     },
     {
       "id": 2663392116,
@@ -2408,8 +2408,25 @@
       ],
       "firstScorer": 1809002223,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884743",
+      "date": "2026-11-07T17:30Z",
+      "home": 1136578140,
+      "away": 2020950542,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 1136578140,
+          "minute": "7",
+          "bin": 0
+        }
+      ],
+      "firstScorer": 1136578140,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 77,
+  "completedMatches": 78,
   "excluded": []
 }
