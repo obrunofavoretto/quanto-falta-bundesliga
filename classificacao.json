@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-08T10:09:39.739549+00:00",
+  "fetchedAt": "2026-11-08T16:59:48.735159+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -48,24 +48,24 @@
       "sourceId": "126"
     },
     {
+      "id": 3095395780,
+      "name": "Bayer Leverkusen",
+      "points": 16,
+      "played": 9,
+      "goalsFor": 20,
+      "goalsAgainst": 17,
+      "position": 5,
+      "sourceId": "131"
+    },
+    {
       "id": 2020950542,
       "name": "Werder Bremen",
       "points": 15,
       "played": 9,
       "goalsFor": 17,
       "goalsAgainst": 15,
-      "position": 5,
-      "sourceId": "137"
-    },
-    {
-      "id": 3095395780,
-      "name": "Bayer Leverkusen",
-      "points": 13,
-      "played": 8,
-      "goalsFor": 18,
-      "goalsAgainst": 16,
       "position": 6,
-      "sourceId": "131"
+      "sourceId": "137"
     },
     {
       "id": 456483115,
@@ -151,9 +151,9 @@
       "id": 4036969662,
       "name": "1. FC Köln",
       "points": 9,
-      "played": 8,
-      "goalsFor": 9,
-      "goalsAgainst": 12,
+      "played": 9,
+      "goalsFor": 10,
+      "goalsAgainst": 14,
       "position": 15,
       "sourceId": "122"
     },
