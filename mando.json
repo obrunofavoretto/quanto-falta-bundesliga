@@ -1,10 +1,32 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T09:37:08.172251+00:00",
+  "fetchedAt": "2026-11-21T17:21:07.283766+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "teams": [
+    {
+      "id": 1809002223,
+      "name": "Borussia Dortmund",
+      "home": {
+        "played": 5,
+        "points": 13,
+        "wins": 4,
+        "draws": 1,
+        "losses": 0,
+        "goalsFor": 10,
+        "goalsAgainst": 3
+      },
+      "away": {
+        "played": 5,
+        "points": 11,
+        "wins": 3,
+        "draws": 2,
+        "losses": 0,
+        "goalsFor": 7,
+        "goalsAgainst": 4
+      }
+    },
     {
       "id": 986778361,
       "name": "Bayern Munich",
@@ -28,28 +50,6 @@
       }
     },
     {
-      "id": 1809002223,
-      "name": "Borussia Dortmund",
-      "home": {
-        "played": 5,
-        "points": 13,
-        "wins": 4,
-        "draws": 1,
-        "losses": 0,
-        "goalsFor": 10,
-        "goalsAgainst": 3
-      },
-      "away": {
-        "played": 4,
-        "points": 8,
-        "wins": 2,
-        "draws": 2,
-        "losses": 0,
-        "goalsFor": 6,
-        "goalsAgainst": 4
-      }
-    },
-    {
       "id": 124371916,
       "name": "SC Freiburg",
       "home": {
@@ -62,12 +62,12 @@
         "goalsAgainst": 5
       },
       "away": {
-        "played": 4,
-        "points": 7,
-        "wins": 2,
+        "played": 5,
+        "points": 10,
+        "wins": 3,
         "draws": 1,
         "losses": 1,
-        "goalsFor": 6,
+        "goalsFor": 7,
         "goalsAgainst": 5
       }
     },
@@ -84,25 +84,25 @@
         "goalsAgainst": 2
       },
       "away": {
-        "played": 4,
-        "points": 3,
-        "wins": 1,
+        "played": 5,
+        "points": 6,
+        "wins": 2,
         "draws": 0,
         "losses": 3,
-        "goalsFor": 4,
-        "goalsAgainst": 11
+        "goalsFor": 9,
+        "goalsAgainst": 12
       }
     },
     {
       "id": 3095395780,
       "name": "Bayer Leverkusen",
       "home": {
-        "played": 4,
-        "points": 9,
-        "wins": 3,
+        "played": 5,
+        "points": 12,
+        "wins": 4,
         "draws": 0,
         "losses": 1,
-        "goalsFor": 10,
+        "goalsFor": 14,
         "goalsAgainst": 5
       },
       "away": {
@@ -138,16 +138,38 @@
       }
     },
     {
+      "id": 526996100,
+      "name": "Eintracht Frankfurt",
+      "home": {
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 8,
+        "goalsAgainst": 7
+      },
+      "away": {
+        "played": 5,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 2,
+        "goalsFor": 8,
+        "goalsAgainst": 13
+      }
+    },
+    {
       "id": 456483115,
       "name": "SV Elversberg",
       "home": {
-        "played": 4,
+        "played": 5,
         "points": 9,
         "wins": 3,
         "draws": 0,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 12,
-        "goalsAgainst": 8
+        "goalsAgainst": 9
       },
       "away": {
         "played": 5,
@@ -194,35 +216,13 @@
         "goalsAgainst": 8
       },
       "away": {
-        "played": 4,
+        "played": 5,
         "points": 3,
         "wins": 1,
         "draws": 0,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 5,
-        "goalsAgainst": 9
-      }
-    },
-    {
-      "id": 526996100,
-      "name": "Eintracht Frankfurt",
-      "home": {
-        "played": 4,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 7
-      },
-      "away": {
-        "played": 5,
-        "points": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 2,
-        "goalsFor": 8,
-        "goalsAgainst": 13
+        "goalsAgainst": 10
       }
     },
     {
@@ -270,28 +270,6 @@
       }
     },
     {
-      "id": 1807905175,
-      "name": "SC Paderborn",
-      "home": {
-        "played": 5,
-        "points": 7,
-        "wins": 2,
-        "draws": 1,
-        "losses": 2,
-        "goalsFor": 6,
-        "goalsAgainst": 6
-      },
-      "away": {
-        "played": 4,
-        "points": 3,
-        "wins": 0,
-        "draws": 3,
-        "losses": 1,
-        "goalsFor": 2,
-        "goalsAgainst": 5
-      }
-    },
-    {
       "id": 4036969662,
       "name": "1. FC Köln",
       "home": {
@@ -310,6 +288,28 @@
         "draws": 2,
         "losses": 3,
         "goalsFor": 4,
+        "goalsAgainst": 9
+      }
+    },
+    {
+      "id": 1807905175,
+      "name": "SC Paderborn",
+      "home": {
+        "played": 5,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 2,
+        "goalsFor": 6,
+        "goalsAgainst": 6
+      },
+      "away": {
+        "played": 5,
+        "points": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 2,
+        "goalsFor": 2,
         "goalsAgainst": 9
       }
     },
@@ -339,13 +339,13 @@
       "id": 3164154069,
       "name": "Union Berlin",
       "home": {
-        "played": 5,
+        "played": 6,
         "points": 6,
         "wins": 1,
         "draws": 3,
-        "losses": 1,
-        "goalsFor": 6,
-        "goalsAgainst": 7
+        "losses": 2,
+        "goalsFor": 7,
+        "goalsAgainst": 12
       },
       "away": {
         "played": 4,
@@ -383,13 +383,13 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "home": {
-        "played": 4,
+        "played": 5,
         "points": 1,
         "wins": 0,
         "draws": 1,
-        "losses": 3,
+        "losses": 4,
         "goalsFor": 7,
-        "goalsAgainst": 10
+        "goalsAgainst": 11
       },
       "away": {
         "played": 5,

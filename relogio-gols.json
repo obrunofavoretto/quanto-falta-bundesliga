@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T09:37:08.172251+00:00",
+  "fetchedAt": "2026-11-21T17:21:07.283766+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -17,34 +17,34 @@
   ],
   "teams": [
     {
+      "id": 1809002223,
+      "name": "Borussia Dortmund",
+      "sourceId": "124",
+      "completed": 10
+    },
+    {
       "id": 986778361,
       "name": "Bayern Munich",
       "sourceId": "132",
       "completed": 10
     },
     {
-      "id": 1809002223,
-      "name": "Borussia Dortmund",
-      "sourceId": "124",
-      "completed": 9
-    },
-    {
       "id": 124371916,
       "name": "SC Freiburg",
       "sourceId": "126",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 940116287,
       "name": "RB Leipzig",
       "sourceId": "11420",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 3095395780,
       "name": "Bayer Leverkusen",
       "sourceId": "131",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2020950542,
@@ -53,10 +53,16 @@
       "completed": 9
     },
     {
+      "id": 526996100,
+      "name": "Eintracht Frankfurt",
+      "sourceId": "125",
+      "completed": 10
+    },
+    {
       "id": 456483115,
       "name": "SV Elversberg",
       "sourceId": "10388",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 1136578140,
@@ -68,13 +74,7 @@
       "id": 2663392116,
       "name": "TSG Hoffenheim",
       "sourceId": "7911",
-      "completed": 9
-    },
-    {
-      "id": 526996100,
-      "name": "Eintracht Frankfurt",
-      "sourceId": "125",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 3829402270,
@@ -89,15 +89,15 @@
       "completed": 9
     },
     {
-      "id": 1807905175,
-      "name": "SC Paderborn",
-      "sourceId": "3307",
-      "completed": 9
-    },
-    {
       "id": 4036969662,
       "name": "1. FC Köln",
       "sourceId": "122",
+      "completed": 10
+    },
+    {
+      "id": 1807905175,
+      "name": "SC Paderborn",
+      "sourceId": "3307",
       "completed": 10
     },
     {
@@ -110,7 +110,7 @@
       "id": 3164154069,
       "name": "Union Berlin",
       "sourceId": "598",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 2744851940,
@@ -122,7 +122,7 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "sourceId": "268",
-      "completed": 9
+      "completed": 10
     }
   ],
   "matches": [
@@ -2523,8 +2523,133 @@
       ],
       "firstScorer": 4036969662,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884728",
+      "date": "2026-11-21T14:30Z",
+      "home": 456483115,
+      "away": 124371916,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 124371916,
+          "minute": "68",
+          "bin": 5
+        }
+      ],
+      "firstScorer": 124371916,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884731",
+      "date": "2026-11-21T14:30Z",
+      "home": 3705035320,
+      "away": 1809002223,
+      "hg": 0,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1809002223,
+          "minute": "80",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 1809002223,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884732",
+      "date": "2026-11-21T14:30Z",
+      "home": 3164154069,
+      "away": 940116287,
+      "hg": 1,
+      "ag": 5,
+      "goals": [
+        {
+          "team": 940116287,
+          "minute": "18",
+          "bin": 1
+        },
+        {
+          "team": 3164154069,
+          "minute": "41",
+          "bin": 2
+        },
+        {
+          "team": 940116287,
+          "minute": "50",
+          "bin": 4
+        },
+        {
+          "team": 940116287,
+          "minute": "72",
+          "bin": 5
+        },
+        {
+          "team": 940116287,
+          "minute": "76",
+          "bin": 6
+        },
+        {
+          "team": 940116287,
+          "minute": "89",
+          "bin": 6
+        }
+      ],
+      "firstScorer": 940116287,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884734",
+      "date": "2026-11-21T14:30Z",
+      "home": 526996100,
+      "away": 2663392116,
+      "hg": 1,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 526996100,
+          "minute": "25",
+          "bin": 1
+        }
+      ],
+      "firstScorer": 526996100,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884735",
+      "date": "2026-11-21T14:30Z",
+      "home": 3095395780,
+      "away": 1807905175,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 3095395780,
+          "minute": "14",
+          "bin": 0
+        },
+        {
+          "team": 3095395780,
+          "minute": "47",
+          "bin": 4
+        },
+        {
+          "team": 3095395780,
+          "minute": "51",
+          "bin": 4
+        },
+        {
+          "team": 3095395780,
+          "minute": "59",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 3095395780,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 82,
+  "completedMatches": 87,
   "excluded": []
 }

@@ -1,12 +1,22 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T09:37:08.172251+00:00",
+  "fetchedAt": "2026-11-21T17:21:07.283766+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
   "sourceHistoryUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga?action=history",
   "teams": [
+    {
+      "id": 1809002223,
+      "name": "Borussia Dortmund",
+      "points": 24,
+      "played": 10,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
+      "position": 1,
+      "sourceId": "124"
+    },
     {
       "id": 986778361,
       "name": "Bayern Munich",
@@ -14,25 +24,15 @@
       "played": 10,
       "goalsFor": 30,
       "goalsAgainst": 10,
-      "position": 1,
-      "sourceId": "132"
-    },
-    {
-      "id": 1809002223,
-      "name": "Borussia Dortmund",
-      "points": 21,
-      "played": 9,
-      "goalsFor": 16,
-      "goalsAgainst": 7,
       "position": 2,
-      "sourceId": "124"
+      "sourceId": "132"
     },
     {
       "id": 124371916,
       "name": "SC Freiburg",
-      "points": 19,
-      "played": 9,
-      "goalsFor": 20,
+      "points": 22,
+      "played": 10,
+      "goalsFor": 21,
       "goalsAgainst": 10,
       "position": 3,
       "sourceId": "126"
@@ -40,19 +40,19 @@
     {
       "id": 940116287,
       "name": "RB Leipzig",
-      "points": 18,
-      "played": 9,
-      "goalsFor": 27,
-      "goalsAgainst": 13,
+      "points": 21,
+      "played": 10,
+      "goalsFor": 32,
+      "goalsAgainst": 14,
       "position": 4,
       "sourceId": "11420"
     },
     {
       "id": 3095395780,
       "name": "Bayer Leverkusen",
-      "points": 16,
-      "played": 9,
-      "goalsFor": 20,
+      "points": 19,
+      "played": 10,
+      "goalsFor": 24,
       "goalsAgainst": 17,
       "position": 5,
       "sourceId": "131"
@@ -68,13 +68,23 @@
       "sourceId": "137"
     },
     {
+      "id": 526996100,
+      "name": "Eintracht Frankfurt",
+      "points": 15,
+      "played": 10,
+      "goalsFor": 16,
+      "goalsAgainst": 20,
+      "position": 7,
+      "sourceId": "125"
+    },
+    {
       "id": 456483115,
       "name": "SV Elversberg",
       "points": 13,
-      "played": 9,
+      "played": 10,
       "goalsFor": 17,
-      "goalsAgainst": 18,
-      "position": 7,
+      "goalsAgainst": 19,
+      "position": 8,
       "sourceId": "10388"
     },
     {
@@ -84,28 +94,18 @@
       "played": 9,
       "goalsFor": 15,
       "goalsAgainst": 15,
-      "position": 8,
+      "position": 9,
       "sourceId": "134"
     },
     {
       "id": 2663392116,
       "name": "TSG Hoffenheim",
       "points": 12,
-      "played": 9,
+      "played": 10,
       "goalsFor": 16,
-      "goalsAgainst": 17,
-      "position": 9,
-      "sourceId": "7911"
-    },
-    {
-      "id": 526996100,
-      "name": "Eintracht Frankfurt",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 15,
-      "goalsAgainst": 20,
+      "goalsAgainst": 18,
       "position": 10,
-      "sourceId": "125"
+      "sourceId": "7911"
     },
     {
       "id": 3829402270,
@@ -128,24 +128,24 @@
       "sourceId": "2950"
     },
     {
-      "id": 1807905175,
-      "name": "SC Paderborn",
-      "points": 10,
-      "played": 9,
-      "goalsFor": 8,
-      "goalsAgainst": 11,
-      "position": 13,
-      "sourceId": "3307"
-    },
-    {
       "id": 4036969662,
       "name": "1. FC Köln",
       "points": 10,
       "played": 10,
       "goalsFor": 11,
       "goalsAgainst": 15,
-      "position": 14,
+      "position": 13,
       "sourceId": "122"
+    },
+    {
+      "id": 1807905175,
+      "name": "SC Paderborn",
+      "points": 10,
+      "played": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 15,
+      "position": 14,
+      "sourceId": "3307"
     },
     {
       "id": 1882370810,
@@ -161,9 +161,9 @@
       "id": 3164154069,
       "name": "Union Berlin",
       "points": 7,
-      "played": 9,
-      "goalsFor": 7,
-      "goalsAgainst": 21,
+      "played": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 26,
       "position": 16,
       "sourceId": "598"
     },
@@ -181,9 +181,9 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "points": 4,
-      "played": 9,
+      "played": 10,
       "goalsFor": 12,
-      "goalsAgainst": 25,
+      "goalsAgainst": 26,
       "position": 18,
       "sourceId": "268"
     }
