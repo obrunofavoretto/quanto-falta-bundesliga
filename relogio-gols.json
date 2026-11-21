@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:21:07.283766+00:00",
+  "fetchedAt": "2026-11-21T23:03:01.002809+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -59,16 +59,16 @@
       "completed": 10
     },
     {
+      "id": 1136578140,
+      "name": "VfB Stuttgart",
+      "sourceId": "134",
+      "completed": 10
+    },
+    {
       "id": 456483115,
       "name": "SV Elversberg",
       "sourceId": "10388",
       "completed": 10
-    },
-    {
-      "id": 1136578140,
-      "name": "VfB Stuttgart",
-      "sourceId": "134",
-      "completed": 9
     },
     {
       "id": 2663392116,
@@ -107,16 +107,16 @@
       "completed": 9
     },
     {
+      "id": 2744851940,
+      "name": "Schalke 04",
+      "sourceId": "133",
+      "completed": 10
+    },
+    {
       "id": 3164154069,
       "name": "Union Berlin",
       "sourceId": "598",
       "completed": 10
-    },
-    {
-      "id": 2744851940,
-      "name": "Schalke 04",
-      "sourceId": "133",
-      "completed": 9
     },
     {
       "id": 3705035320,
@@ -2648,8 +2648,19 @@
       ],
       "firstScorer": 3095395780,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884729",
+      "date": "2026-11-21T17:30Z",
+      "home": 2744851940,
+      "away": 1136578140,
+      "hg": 0,
+      "ag": 0,
+      "goals": [],
+      "firstScorer": null,
+      "firstGoalStatus": "goalless"
     }
   ],
-  "completedMatches": 87,
+  "completedMatches": 88,
   "excluded": []
 }

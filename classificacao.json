@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-21T17:21:07.283766+00:00",
+  "fetchedAt": "2026-11-21T23:03:01.002809+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "source": "Wikipédia — colaboradores do artigo",
@@ -78,24 +78,24 @@
       "sourceId": "125"
     },
     {
+      "id": 1136578140,
+      "name": "VfB Stuttgart",
+      "points": 13,
+      "played": 10,
+      "goalsFor": 15,
+      "goalsAgainst": 15,
+      "position": 8,
+      "sourceId": "134"
+    },
+    {
       "id": 456483115,
       "name": "SV Elversberg",
       "points": 13,
       "played": 10,
       "goalsFor": 17,
       "goalsAgainst": 19,
-      "position": 8,
-      "sourceId": "10388"
-    },
-    {
-      "id": 1136578140,
-      "name": "VfB Stuttgart",
-      "points": 12,
-      "played": 9,
-      "goalsFor": 15,
-      "goalsAgainst": 15,
       "position": 9,
-      "sourceId": "134"
+      "sourceId": "10388"
     },
     {
       "id": 2663392116,
@@ -158,24 +158,24 @@
       "sourceId": "3841"
     },
     {
+      "id": 2744851940,
+      "name": "Schalke 04",
+      "points": 7,
+      "played": 10,
+      "goalsFor": 5,
+      "goalsAgainst": 11,
+      "position": 16,
+      "sourceId": "133"
+    },
+    {
       "id": 3164154069,
       "name": "Union Berlin",
       "points": 7,
       "played": 10,
       "goalsFor": 8,
       "goalsAgainst": 26,
-      "position": 16,
-      "sourceId": "598"
-    },
-    {
-      "id": 2744851940,
-      "name": "Schalke 04",
-      "points": 6,
-      "played": 9,
-      "goalsFor": 5,
-      "goalsAgainst": 11,
       "position": 17,
-      "sourceId": "133"
+      "sourceId": "598"
     },
     {
       "id": 3705035320,
