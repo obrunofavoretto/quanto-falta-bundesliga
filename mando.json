@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T11:06:44.010549+00:00",
+  "fetchedAt": "2026-11-22T19:27:17.544837+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "teams": [
@@ -119,12 +119,12 @@
       "id": 2020950542,
       "name": "Werder Bremen",
       "home": {
-        "played": 4,
-        "points": 10,
-        "wins": 3,
+        "played": 5,
+        "points": 13,
+        "wins": 4,
         "draws": 1,
         "losses": 0,
-        "goalsFor": 10,
+        "goalsFor": 14,
         "goalsAgainst": 5
       },
       "away": {
@@ -204,6 +204,28 @@
       }
     },
     {
+      "id": 1882370810,
+      "name": "FC Augsburg",
+      "home": {
+        "played": 6,
+        "points": 9,
+        "wins": 2,
+        "draws": 3,
+        "losses": 1,
+        "goalsFor": 12,
+        "goalsAgainst": 8
+      },
+      "away": {
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 11,
+        "goalsAgainst": 13
+      }
+    },
+    {
       "id": 2663392116,
       "name": "TSG Hoffenheim",
       "home": {
@@ -238,13 +260,13 @@
         "goalsAgainst": 7
       },
       "away": {
-        "played": 5,
+        "played": 6,
         "points": 3,
         "wins": 1,
         "draws": 0,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 4,
-        "goalsAgainst": 13
+        "goalsAgainst": 17
       }
     },
     {
@@ -260,13 +282,13 @@
         "goalsAgainst": 12
       },
       "away": {
-        "played": 4,
+        "played": 5,
         "points": 9,
         "wins": 3,
         "draws": 0,
-        "losses": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 7
+        "losses": 2,
+        "goalsFor": 12,
+        "goalsAgainst": 10
       }
     },
     {
@@ -311,28 +333,6 @@
         "losses": 2,
         "goalsFor": 2,
         "goalsAgainst": 9
-      }
-    },
-    {
-      "id": 1882370810,
-      "name": "FC Augsburg",
-      "home": {
-        "played": 5,
-        "points": 6,
-        "wins": 1,
-        "draws": 3,
-        "losses": 1,
-        "goalsFor": 9,
-        "goalsAgainst": 7
-      },
-      "away": {
-        "played": 4,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 3,
-        "goalsFor": 11,
-        "goalsAgainst": 13
       }
     },
     {

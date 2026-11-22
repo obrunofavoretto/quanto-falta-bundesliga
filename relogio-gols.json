@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-22T11:06:44.010549+00:00",
+  "fetchedAt": "2026-11-22T19:27:17.544837+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -50,7 +50,7 @@
       "id": 2020950542,
       "name": "Werder Bremen",
       "sourceId": "137",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 526996100,
@@ -71,6 +71,12 @@
       "completed": 10
     },
     {
+      "id": 1882370810,
+      "name": "FC Augsburg",
+      "sourceId": "3841",
+      "completed": 10
+    },
+    {
       "id": 2663392116,
       "name": "TSG Hoffenheim",
       "sourceId": "7911",
@@ -80,13 +86,13 @@
       "id": 3829402270,
       "name": "Hamburger SV",
       "sourceId": "127",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 3512646441,
       "name": "Mainz 05",
       "sourceId": "2950",
-      "completed": 9
+      "completed": 10
     },
     {
       "id": 4036969662,
@@ -99,12 +105,6 @@
       "name": "SC Paderborn",
       "sourceId": "3307",
       "completed": 10
-    },
-    {
-      "id": 1882370810,
-      "name": "FC Augsburg",
-      "sourceId": "3841",
-      "completed": 9
     },
     {
       "id": 2744851940,
@@ -2659,8 +2659,72 @@
       "goals": [],
       "firstScorer": null,
       "firstGoalStatus": "goalless"
+    },
+    {
+      "id": "401884733",
+      "date": "2026-11-22T14:30Z",
+      "home": 1882370810,
+      "away": 3512646441,
+      "hg": 3,
+      "ag": 1,
+      "goals": [
+        {
+          "team": 1882370810,
+          "minute": "19",
+          "bin": 1
+        },
+        {
+          "team": 1882370810,
+          "minute": "36",
+          "bin": 2
+        },
+        {
+          "team": 1882370810,
+          "minute": "48",
+          "bin": 4
+        },
+        {
+          "team": 3512646441,
+          "minute": "51",
+          "bin": 4
+        }
+      ],
+      "firstScorer": 1882370810,
+      "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884730",
+      "date": "2026-11-22T16:30Z",
+      "home": 2020950542,
+      "away": 3829402270,
+      "hg": 4,
+      "ag": 0,
+      "goals": [
+        {
+          "team": 2020950542,
+          "minute": "55",
+          "bin": 4
+        },
+        {
+          "team": 2020950542,
+          "minute": "66",
+          "bin": 5
+        },
+        {
+          "team": 2020950542,
+          "minute": "70",
+          "bin": 5
+        },
+        {
+          "team": 2020950542,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 2020950542,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 88,
+  "completedMatches": 90,
   "excluded": []
 }
