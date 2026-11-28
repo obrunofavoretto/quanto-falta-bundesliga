@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:50:54.482654+00:00",
+  "fetchedAt": "2026-11-28T01:52:21.340378+00:00",
   "sourceUrl": "https://www.espn.com/soccer/league/_/name/ger.1",
   "license": "CC BY-SA 4.0",
   "source": "ESPN + Wikipedia",
@@ -50,7 +50,7 @@
       "id": 2020950542,
       "name": "Werder Bremen",
       "sourceId": "137",
-      "completed": 10
+      "completed": 11
     },
     {
       "id": 526996100,
@@ -122,7 +122,7 @@
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
       "sourceId": "268",
-      "completed": 10
+      "completed": 11
     }
   ],
   "matches": [
@@ -2723,8 +2723,50 @@
       ],
       "firstScorer": 2020950542,
       "firstGoalStatus": "known"
+    },
+    {
+      "id": "401884720",
+      "date": "2026-11-27T19:30Z",
+      "home": 2020950542,
+      "away": 3705035320,
+      "hg": 3,
+      "ag": 3,
+      "goals": [
+        {
+          "team": 3705035320,
+          "minute": "27",
+          "bin": 1
+        },
+        {
+          "team": 2020950542,
+          "minute": "38",
+          "bin": 2
+        },
+        {
+          "team": 3705035320,
+          "minute": "46",
+          "bin": 4
+        },
+        {
+          "team": 3705035320,
+          "minute": "78",
+          "bin": 6
+        },
+        {
+          "team": 2020950542,
+          "minute": "85",
+          "bin": 6
+        },
+        {
+          "team": 2020950542,
+          "minute": "90+2",
+          "bin": 7
+        }
+      ],
+      "firstScorer": 3705035320,
+      "firstGoalStatus": "known"
     }
   ],
-  "completedMatches": 90,
+  "completedMatches": 91,
   "excluded": []
 }

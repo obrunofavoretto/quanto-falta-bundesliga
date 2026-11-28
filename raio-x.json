@@ -1,7 +1,7 @@
 {
   "league": "ger-bundesliga",
   "season": 2026,
-  "fetchedAt": "2026-11-27T18:50:54.482654+00:00",
+  "fetchedAt": "2026-11-28T01:52:21.340378+00:00",
   "sourceUrl": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
   "license": "CC BY-SA 4.0",
   "status": "updated",
@@ -729,12 +729,25 @@
     {
       "id": 2020950542,
       "name": "Werder Bremen",
-      "points": 18,
-      "played": 10,
-      "goalsFor": 21,
-      "goalsAgainst": 15,
+      "points": 19,
+      "played": 11,
+      "goalsFor": 24,
+      "goalsAgainst": 18,
       "position": 6,
       "recent": [
+        {
+          "id": "401884720",
+          "date": 1795807800000,
+          "home": "Werder Bremen",
+          "away": "Borussia Mönchengladbach",
+          "hg": 3,
+          "ag": 3,
+          "points": 1,
+          "opponent": "Borussia Mönchengladbach",
+          "venue": "Casa",
+          "score": "3–3",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401884730",
           "date": 1795365000000,
@@ -851,23 +864,10 @@
           "venue": "Casa",
           "score": "3–1",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401884814",
-          "date": 1788096600000,
-          "home": "SC Freiburg",
-          "away": "Werder Bremen",
-          "hg": 4,
-          "ag": 1,
-          "points": 0,
-          "opponent": "SC Freiburg",
-          "venue": "Fora",
-          "score": "1–4",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401884730",
-      "lastMatchDate": 1795365000000,
+      "lastMatchId": "401884720",
+      "lastMatchDate": 1795807800000,
       "sourceId": "137"
     },
     {
@@ -2457,12 +2457,25 @@
     {
       "id": 3705035320,
       "name": "Borussia Mönchengladbach",
-      "points": 4,
-      "played": 10,
-      "goalsFor": 12,
-      "goalsAgainst": 26,
+      "points": 5,
+      "played": 11,
+      "goalsFor": 15,
+      "goalsAgainst": 29,
       "position": 18,
       "recent": [
+        {
+          "id": "401884720",
+          "date": 1795807800000,
+          "home": "Werder Bremen",
+          "away": "Borussia Mönchengladbach",
+          "hg": 3,
+          "ag": 3,
+          "points": 1,
+          "opponent": "Werder Bremen",
+          "venue": "Fora",
+          "score": "3–3",
+          "round": "Rodada a confirmar"
+        },
         {
           "id": "401884731",
           "date": 1795271400000,
@@ -2579,23 +2592,10 @@
           "venue": "Casa",
           "score": "3–4",
           "round": "Rodada a confirmar"
-        },
-        {
-          "id": "401884815",
-          "date": 1788010200000,
-          "home": "RB Leipzig",
-          "away": "Borussia Mönchengladbach",
-          "hg": 3,
-          "ag": 0,
-          "points": 0,
-          "opponent": "RB Leipzig",
-          "venue": "Fora",
-          "score": "0–3",
-          "round": "Rodada a confirmar"
         }
       ],
-      "lastMatchId": "401884731",
-      "lastMatchDate": 1795271400000,
+      "lastMatchId": "401884720",
+      "lastMatchDate": 1795807800000,
       "sourceId": "268"
     }
   ],
@@ -3167,14 +3167,6 @@
       "date": null,
       "round": "Rodada a confirmar",
       "status": "pending"
-    },
-    {
-      "id": "2020950542-3705035320",
-      "home": 2020950542,
-      "away": 3705035320,
-      "date": 1795807800000,
-      "round": "Rodada a confirmar",
-      "status": "scheduled"
     },
     {
       "id": "526996100-1809002223",
